@@ -7,6 +7,8 @@ Unfortunately I do not have enough time to go deeper and debug my program. I was
 I had put the potentiometer on the side as I was debuging because I need it to get a clear rpm and with the potentiometer around the singal was moving sometimes. 
 
 ![github-small](file:///Users/brandoncastillo/Desktop/Screen%20Shot%202020-10-17%20at%2011.53.53%20PM.png)
+![Uploading Screen Shot 2020-10-17 at 11.53.53 PM.png…]()
+
 Something to highlight is the orientation of the motors. 
 
 I've decided to have full stops btw every main command for the user to view the difference of each action something to highlight is that both motors have to be facing the same way and switch routing of motor on the top M1 LEFT This way the logic of the motors will be as follows: 
