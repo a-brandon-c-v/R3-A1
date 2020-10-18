@@ -9,6 +9,8 @@ I had put the potentiometer on the side as I was debuging because I need it to g
 ![github-small](file:///Users/brandoncastillo/Desktop/Screen%20Shot%202020-10-17%20at%2011.53.53%20PM.png)
 
 
+<img width="1167" alt="Screen Shot 2020-10-17 at 11 53 53 PM" src="https://user-images.githubusercontent.com/64425431/96358448-44021e00-10d5-11eb-96a5-88c0ee287e4b.png">
+
 Something to highlight is the orientation of the motors. 
 ![Uploading Screen Shot 2020-10-17 at 11.53.53 PM.png…]()
 I've decided to have full stops btw every main command for the user to view the difference of each action something to highlight is that both motors have to be facing the same way and switch routing of motor on the top M1 LEFT This way the logic of the motors will be as follows: 
